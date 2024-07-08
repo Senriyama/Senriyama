@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Senriyama&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Senriyama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Senriyama&show_icons=true&theme=merko)
+
+**My name is Keita Suga, second-year master's degree student belonging to Information Society laboratory at Kyoto University.**
+
+- 👯 I’m looking to collaborate on *pump*, which is a SNS application focusing on muscle training.
+- 🌱 I’m currently learning Application development with websocket.
 <!--
 **Senriyama/Senriyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
