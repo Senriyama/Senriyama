@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![Top Langs](https://your-vercel-app-url.vercel.app/api/top-langs/?username=Senriyama&layout=compact&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Senriyama&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Senriyama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Senriyama&show_icons=true&theme=merko)
 
