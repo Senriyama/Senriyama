@@ -2,7 +2,10 @@
 
 ![Top Langs](https://github-readme-stats-mdqolfora-senriyamas-projects.vercel.app/api/top-langs?username=Senriyama&layout=compact&theme=dark&count_private=true)
 
-[![Top Langs](https://github-readme-stats-22i107tzr-senriyamas-projects.vercel.app/api/top-langs/?username=Senriyama&layout=compact&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-mdqolfora-senriyamas-projects.vercel.app/api/top-langs?username=Senriyama&layout=compact&theme=dark&count_private=true&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Senriyama&layout=compact&theme=dark&count_private=true)
+
 
 ![Senriyama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Senriyama&show_icons=true&theme=merko)
 
