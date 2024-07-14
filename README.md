@@ -1,13 +1,14 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats-mdqolfora-senriyamas-projects.vercel.app/api/top-langs?username=Senriyama&layout=compact&theme=dark&count_private=true)
+![Top Langs](https://github-readme-stats-gbk515fzd-senriyamas-projects.vercel.app/api/top-langs?username=Senriyama&layout=compact&theme=dark&count_private=true)
 
-![Top Langs](https://github-readme-stats-mdqolfora-senriyamas-projects.vercel.app/api/top-langs?username=Senriyama&layout=compact&theme=dark&count_private=true&cache_seconds=1800)
+![Senriyama's GitHub stats](https://github-readme-stats-gbk515fzd-senriyamas-projects.vercel.app/api?username=Senriyama&show_icons=true&theme=merko)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Senriyama&layout=compact&theme=dark&count_private=true)
 
 
 ![Senriyama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Senriyama&show_icons=true&theme=merko)
+
 
 
 
