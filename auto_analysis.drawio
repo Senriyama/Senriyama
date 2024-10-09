@@ -119,6 +119,9 @@
         <mxCell id="ArjEtyF-l3EaiSf3haK--52" value="" style="shape=mxgraph.mockup.markup.redX;fillColor=#ff0000;html=1;shadow=0;whiteSpace=wrap;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="960" y="470" width="140" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="ArjEtyF-l3EaiSf3haK--53" value="performance might be limited because it is suitable for light tasks." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="960" y="590" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
