@@ -79,6 +79,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ArjEtyF-l3EaiSf3haK--45" value="S3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ArjEtyF-l3EaiSf3haK--1">
+          <mxGeometry x="427.5" y="678" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="ArjEtyF-l3EaiSf3haK--36" value="User" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.user;" vertex="1" parent="1">
           <mxGeometry x="827" y="228" width="60" height="60" as="geometry" />
         </mxCell>
